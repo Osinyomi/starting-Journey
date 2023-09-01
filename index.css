@@ -1,0 +1,99 @@
+body {
+    background: #00FA9A;
+}
+
+#body {
+    width: auto;
+}
+
+#testPrag {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* outline: solid 3px black; */
+}
+
+.items {
+    width: 58%;
+    background-color: rgb(46, 139, 87, 0.25);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Georgia;
+    box-shadow: 20px 20px 20px #98FB98;
+}
+
+#apj {
+    font-size: 7vh;
+    text-shadow: 5px 5px 10px white;
+}
+
+.f-pg {
+    font-size: 18.5px;
+	font-family: Gill Sans;
+	color: black;
+}
+/* .structure {
+    display: flex;
+    align-items: center;
+    width: 70%;
+} */
+
+
+/* .jpimg {
+    align-items: center; 
+} */
+
+/* .structure {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
+.head {
+    padding-top: 20%;
+    padding-bottom: 30px;
+    align-items: center;
+    flex-direction: column;
+    display: flex; 
+    justify-content: center;
+}
+
+/* .parags {
+    align-items: center;
+    flex-direction: column;
+    display: flex; 
+    justify-content: center;
+    border: 20px;
+} */
+
+
+
+/* .f-pg{
+    font-size: 20px;
+} */
+
+img {
+    width: 850px;
+
+}
+
+.about {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+}
+
+#footer {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 18px;
+    padding-left: 240px;
+}
+
+
